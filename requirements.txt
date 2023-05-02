@@ -1,0 +1,11 @@
+wandb==0.15.0
+gym==0.26.2
+pillow==9.5.0
+moviepy==1.0.3
+imageio==2.28.0
+matplotlib==3.7.1
+plotly==5.14.1
+torchvision==0.15.1
+dm-launchpad-nightly
+tqdm==4.64.0
+numpy==1.23.5
